@@ -25,7 +25,7 @@ public class Main {
             System.out.println(d + " год является високосным");
         }
 
-//Exercise 2
+//Exercise 2/
         for (int c = 7; c <= 98; c = c + 7) {
             System.out.print(c + " ");
         }
